@@ -1,7 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import logoImage from "../../../Images/MLONIX_.jpeg";
+import logoImage from "../../../Images/MLONIX_NEW_LOGO-removebg-preview.png";
 
 const links = [
   { to: "/", label: "Home" },
