@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { Linkedin, Twitter, Github, Mail } from "lucide-react";
-import logoImage from "../../../Images/MLONIX LOGO.jpeg";
+import logoImage from "../../../Images/MLONIX_NEW_LOGO-removebg-preview.png";
 
 export function Footer() {
   return (

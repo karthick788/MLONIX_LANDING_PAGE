@@ -12,6 +12,7 @@ bun.lock
 /dist-ssr
 /build
 .output
+.vercel
 
 # Misc
 .DS_Store
