@@ -8,8 +8,8 @@ export function Footer() {
       <div className="container-mx py-14">
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-2">
-            <div className="flex items-center gap-2.5">
-              <img src={logoImage} alt="MLONIX" className="h-7 w-7 object-contain" />
+            <div className="flex items-center gap-1">
+              <img src={logoImage} alt="MLONIX" className="h-10 w-10 object-contain" />
               <span className="font-display text-lg font-semibold tracking-tight text-[#0060EB]">MLONIX</span>
             </div>
             <p className="mt-4 max-w-sm text-sm text-muted-foreground">
