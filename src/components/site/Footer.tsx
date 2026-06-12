@@ -10,7 +10,7 @@ export function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center gap-2.5">
               <img src={logoImage} alt="MLONIX" className="h-7 w-7 object-contain" />
-              <span className="font-display text-lg font-semibold tracking-tight">MLONIX</span>
+              <span className="font-display text-lg font-semibold tracking-tight text-[#0060EB]">MLONIX</span>
             </div>
             <p className="mt-4 max-w-sm text-sm text-muted-foreground">
               Your electricity bill knows your water level. We just learned to read it.

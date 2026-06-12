@@ -18,9 +18,9 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/85 backdrop-blur supports-[backdrop-filter]:bg-background/70">
       <div className="container-mx flex h-16 items-center justify-between">
-        <Link to="/" className="flex items-center gap-2.5" aria-label="MLONIX home">
-          <img src={logoImage} alt="MLONIX" className="h-7 w-7 object-contain" />
-          <span className="font-display text-lg font-semibold tracking-tight text-foreground">
+        <Link to="/" className="flex items-center gap-2" aria-label="MLONIX home">
+          <img src={logoImage} alt="MLONIX" className="h-10 w-10 object-contain" />
+          <span className="font-display text-lg font-semibold tracking-tight text-[#0060EB]">
             MLONIX
           </span>
         </Link>
